@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on ML model deployment using the Flask, Docker, React, Heroku and Azure.
+- 🔭 I’m currently working on ML model deployment using the Flask, Docker, React, Heroku and Azure.
 - 🌱 I’m currently learning about ETL pipelines and CI/CD.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=vbabashov&theme=highcontrast&show_icons=true&count_private=true)
