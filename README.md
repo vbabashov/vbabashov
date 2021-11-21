@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/visual-studio-code.png"></code>
 <code><img height="40" src="https://github.com/github/explore/blob/main/topics/r/r.png"></code>
-<code><img height="40" src=https://github.com/github/explore/blob/main/topics/sql/sql.png"></code>
+<code><img height="40" src="https://github.com/github/explore/blob/main/topics/sql/sql.png"></code>
